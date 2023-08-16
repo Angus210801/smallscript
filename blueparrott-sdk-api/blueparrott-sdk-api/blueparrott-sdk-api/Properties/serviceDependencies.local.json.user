@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "mssql1": {
+      "restored": true,
+      "restoreTime": "2023-07-28T17:05:21.5976634Z"
+    },
+    "secrets1": {
+      "restored": true,
+      "restoreTime": "2023-07-28T17:05:08.2843263Z"
+    }
+  },
+  "parameters": {
+    "mssql1.subscriptionId": {
+      "Name": "mssql1.subscriptionId",
+      "Type": "subscription",
+      "Value": "c9d7ce28-4c9f-404e-aff2-0dda7dd5f9b6"
+    },
+    "mssql1.resourceGroupName": {
+      "Name": "mssql1.resourceGroupName",
+      "Type": "resourceGroup",
+      "Value": "blueparrott"
+    }
+  }
+}
