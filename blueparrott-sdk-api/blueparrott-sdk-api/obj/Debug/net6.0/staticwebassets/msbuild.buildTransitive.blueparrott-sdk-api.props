@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\blueparrott-sdk-api.props" />
+</Project>
