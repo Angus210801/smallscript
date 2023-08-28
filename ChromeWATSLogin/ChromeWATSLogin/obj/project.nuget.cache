@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "rQMjmlJajlAuIc4kY5Ot5Rf/vHXkTOOBXcE8inoC2eotnG/nkYOJmo6PPuY0WlpWNh9nWO9926bjhnY6dDwhJw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\FJJ\\Desktop\\Code\\filetransfer\\ChromeWATSLogin\\ChromeWATSLogin\\ChromeWATSLogin.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\FJJ\\.nuget\\packages\\dotnetseleniumextras.waithelpers\\3.11.0\\dotnetseleniumextras.waithelpers.3.11.0.nupkg.sha512",
+    "C:\\Users\\FJJ\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\7.0.0\\microsoft.bcl.asyncinterfaces.7.0.0.nupkg.sha512",
+    "C:\\Users\\FJJ\\.nuget\\packages\\microsoft.playwright\\1.37.1\\microsoft.playwright.1.37.1.nupkg.sha512",
+    "C:\\Users\\FJJ\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\FJJ\\.nuget\\packages\\selenium.support\\4.8.2\\selenium.support.4.8.2.nupkg.sha512",
+    "C:\\Users\\FJJ\\.nuget\\packages\\selenium.webdriver\\4.8.2\\selenium.webdriver.4.8.2.nupkg.sha512",
+    "C:\\Users\\FJJ\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512",
+    "C:\\Users\\FJJ\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\FJJ\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
+    "C:\\Users\\FJJ\\.nuget\\packages\\system.text.json\\7.0.0\\system.text.json.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

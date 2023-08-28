@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\blueparrott-sdk-api.props" />
+</Project>
